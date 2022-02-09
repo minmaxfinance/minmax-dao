@@ -1,0 +1,34 @@
+{
+    "Gauges": [
+        {
+            "id": "B3",
+            "address": "0x7bCA7698F35FC04f4217059BfD7bA73062560204"
+        },
+        {
+            "id": "M3",
+            "address": "0x2700f28B7B97a0881410D2eA688ee455713e87D4"
+        },
+        {
+            "id": "E3",
+            "address": "0x64D19dA38ca28ACbaE62c4B9143f5d867B593504"
+        },
+        {
+            "id": "XIMB3Meta",
+            "address": "0x3267E70dB372E42b25e79a5E35f3aED202cDe642"
+        },
+        {
+            "id": "XIMM3Meta",
+            "address": "0xB040FF8F8F5F2399c67c2cCBa8A7cc6777435306"
+        },
+        {
+            "id": "XIME3Meta",
+            "address": "0xE9E6CdDB08042f35e0ADAf62Ad0559b0F17E7e1c"
+        }
+    ],
+    "VotingEscrow": "0x80123c23eD0A959717f70E246234477F41715db9",
+    "SmartWalletChecker": "0x65e0c91B39Eea66620F2D40602573D2fCb695B8B",
+    "Treasury": "0xC265521e24b5b726547972C58e73BBD2E7A7d44A",
+    "RewardPolicyMaker": "0x04D835463C8fD5527D566Dd6353CE65199995087",
+    "GaugeController": "0x36f0B6917220d8814700D119798EEC3c0DbF2a91",
+    "Minter": "0x8FeF33DE3AbF05FC061c4d1466766e30CCDA478c"
+}
